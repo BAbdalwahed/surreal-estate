@@ -4,5 +4,10 @@
 
 }
 .navbar-logo {
- size: 50px;
+ size: 35px;
+}
+.navbar-links {
+    margin: 0;
+    padding: 35px;
+    display: inline;
 }
